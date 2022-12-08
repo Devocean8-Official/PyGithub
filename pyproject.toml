@@ -1,5 +1,0 @@
-[tool.poetry]
-name = "PyGithub"
-version = "0.1.0"
-description = "PyGithub"
-authors = ["y"]
